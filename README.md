@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Profile is currently in progress of construction!
 <!--
 **Xumeri/Xumeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
