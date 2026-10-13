@@ -16,5 +16,8 @@ digitaler Gesundheit.
 ### Ausgewählte Projekte
 - [**Task-Tracker-CLI**](https://github.com/Xumeri/Task-Tracker-CLI): Aufgabenverwaltung für die
   Kommandozeile in Java 
-- [**RLS-Therapieassistent**](https://github.com/Xumeri/RLS-Therapieassistent): [kurz, was du dort
-  beigetragen hast]
+- [**RLS-Therapieassistent**](https://github.com/Xumeri/RLS-Therapieassistent): mobile App zur
+  Symptomerfassung für Patientinnen und Patienten mit Restless-Legs-Syndrom. Mein Beitrag:
+  Refactoring auf Riverpod mit Schichtenarchitektur, JWT-gesicherte Django-Endpunkte (Passwortänderung,
+  DSGVO-konforme Account-Löschung), Pflicht-Onboarding für Datenschutz, Absicherung des Ärzteportals
+  (IDOR), HAPI-FHIR-Testumgebung mit Docker
