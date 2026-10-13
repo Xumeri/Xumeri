@@ -14,8 +14,6 @@ digitaler Gesundheit.
 **Werkzeuge:** Git · LaTeX · IntellJ · PyCharm
 
 ### Ausgewählte Projekte
-- [**Task-Tracker-CLI**](https://github.com/Xumeri/Task-Tracker-CLI): Aufgabenverwaltung für die
-  Kommandozeile in Java 
 - [**RLS-Therapieassistent**](https://github.com/Xumeri/RLS-Therapieassistent): mobile App zur
   Symptomerfassung für Patientinnen und Patienten mit Restless-Legs-Syndrom. Mein Beitrag:
   Refactoring auf Riverpod mit Schichtenarchitektur, JWT-gesicherte Django-Endpunkte (Passwortänderung,
