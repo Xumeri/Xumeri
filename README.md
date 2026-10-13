@@ -1,16 +1,20 @@
-## Hi there 👋
-Profile is currently in progress of construction!
-<!--
-**Xumeri/Xumeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hallo, ich bin Timo 👋
 
-Here are some ideas to get you started:
+Student der Data Science in der Medizin an der **Technischen Hochschule Ulm** mit Schwerpunkt auf Softwareentwicklung und
+digitaler Gesundheit.
+### Woran ich arbeite
+- Werkstudent im Projekt **iTAS-PLMS**: Flutter-App und Django-Backend für Patientinnen und Patienten
+  mit Restless-Legs-Syndrom (HL7 FHIR, Riverpod)
+- ehemals Tutor an der THU: Einführung in die Programmierung und Vorkurs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologien
+**Sprachen:** Java · Python · Dart · SQL  
+**Frameworks:** Flutter (Riverpod) · Django · Android  
+**Daten & Standards:** MySQL · JPA · HL7 FHIR · HL7 V2  
+**Werkzeuge:** Git · LaTeX · IntellJ · PyCharm
+
+### Ausgewählte Projekte
+- [**Task-Tracker-CLI**](https://github.com/Xumeri/Task-Tracker-CLI): Aufgabenverwaltung für die
+  Kommandozeile in Java 
+- [**RLS-Therapieassistent**](https://github.com/Xumeri/RLS-Therapieassistent): [kurz, was du dort
+  beigetragen hast]
